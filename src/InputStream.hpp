@@ -18,7 +18,9 @@ limitations under the License.
 
 #include <istream>
 
+namespace kanzi 
+{
 // Maps to istream
 typedef std::istream InputStream;
-
+}
 #endif
